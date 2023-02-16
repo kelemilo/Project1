@@ -22,6 +22,6 @@ sudo system ctl status apache2
 
 Find below the screenshot of the successful apache web server installation.
 
-![click to see apache status](./images/apache-status.PNG)
+![click to see apache status](./Images/apache-status.png)
 
 Secondly,
