@@ -33,10 +33,12 @@ Find below the screenshot of the successful apache web server installation.
 curl http://localhost
 `
 : which accesses the apache server from my ubuntu server and displays the text image below.
+
 ![Local Access of Apache Server](./Images/apache-local-access-display.png)
 
 `
 http:18.223.166.172/
 `
 : which accesses the apache server from my web browser and displays the succes image below.
+
 ![Local Access of Apache Server](./Images/apache-internet-%20access-display.png)
