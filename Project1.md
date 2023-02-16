@@ -1,8 +1,9 @@
 # PROJECT 1 DOCUMENTATION
 
 ## Installing Apache & Updating The Firewall
+---
 
-Installed Apache on my Ubuntu Os by running the following commands:
+I installed Apache on my Ubuntu Os by running the following commands:
 
 `
 sudo apt update
